@@ -2,6 +2,6 @@ import React from 'react'
 // Zafar
 export default function Error() {
   return (
-    <div>Error</div>
+    <div className='bg-red-400'>Error</div>
   )
 }
